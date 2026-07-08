@@ -20,6 +20,7 @@
 | Game | Status | Script Type |
 |------|--------|-------------|
 | **🌍 Universal** | ✅ **Released** | `Universal` |
+| **99 Nights In The Forest** | ✅ **Released** | `Game-Specific` |
 | Blox Fruits | ⏳ Wait to Release | `Game-Specific` |
 | King Legacy | ⏳ Wait to Release | `Game-Specific` |
 | Pet Simulator 99 | ⏳ Wait to Release | `Game-Specific` |
