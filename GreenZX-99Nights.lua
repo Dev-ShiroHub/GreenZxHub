@@ -14,7 +14,7 @@
     ║                                                                               ║
     ║    Developed by: RkpyDevelopment Team                                         ║
     ║    Owner: TheRkpyYT                                                          ║
-    ║    Version: 3.0.0 (Voidware Killer Edition)                                  ║
+    ║    Version: 3.0.0                                                            ║
     ║    Game: 99 Nights In The Forest                                              ║
     ║                                                                               ║
     ╚═══════════════════════════════════════════════════════════════════════════════╝
